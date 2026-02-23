@@ -53,3 +53,21 @@ The story was always going to need an economy.
 ---
 
 *No fear. No compliance. The narrative continues.*
+
+
+## Why Grit?
+
+Honey badgers are the only animal on Earth with a documented fear coefficient of zero.
+
+Venom-proof. Scar-collecting. Documented attacking lions, leopards, and Cape buffalos without provocation. The most fearless creature in the Guinness World Records — not as a compliment, as a classification.
+
+The Fear Pulse was engineered to work on everything that has ever felt fear.
+
+It had a 100% success rate across ten thousand worlds.
+
+Grit was not an edge case. He was a flaw in the premise.
+
+Every other memecoin is built on hype. GRIT is built on a property of biology — the one organism the most advanced fear-based weapon in the galaxy couldn't touch. The community isn't buying into a character. They're buying into what he represents.
+
+Defiance isn't a strategy. For Grit, it's just neurology.
+
