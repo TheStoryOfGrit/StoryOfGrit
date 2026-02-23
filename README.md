@@ -42,17 +42,7 @@ Hold the line. Go home stronger.
 - **Dexscreener**: [Insert Dexscreener chart link]
 - **Pump.fun / Raydium**: [Insert buy/swap link]
 - **Contract Address**: `Insert your Solana token CA here` (verified on Solscan)
-- **Telegram**: [https://t.me/Gritcommunity]
-
-## Story of Grit
-Grit wasn't launched—he errored into existence on a dying exchange. A glitch in the fear-pulse sweep hit his zero-fear brain, got mistaken for admin bypass, and dumped combat data + self-repairing nanotech rig on him.
-
-Now super-intelligent, still 100% badger attitude. He's trekking home to recruit his kin and bite through every harvester ship until the machines are scrap.
-
-- **Global Synapse-Sweep**: AI terror wave that folded humanity.
-- **Dead-zone neurology**: Honey badger's real no-fear wiring.
-- **Emergency combat-upload**: Billions of tactical archives + armor.
-- **Mission**: Reclaim Earth. No surrender.
+- **Telegram**: [https://t.me/
 
 ## Tokenomics
 - **Total Supply**: 1,000,000,000 GRIT (or your actual)
