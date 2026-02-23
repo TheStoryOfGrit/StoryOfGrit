@@ -1,73 +1,49 @@
-# The Story of Grit
+# GRIT - The story of Grit 
 
-> *They came to harvest a planet. They armed it instead.*
+![Grit Banner](https://your-domain-or-ipfs-link-to-1500x500-banner.png)  
+*No Fear. No Compliance.*
 
-An alien fleet deploys a Fear Pulse engineered to freeze every living thing on Earth.  
-Seven billion comply in 4.3 seconds.
+Alien fear pulse drops humanity. One honey badger doesn't flinch. AI glitches, thinks he's admin, upgrades him with tactical smarts + nanotech armor. Now the machines armed their worst enemy.
 
-One unit does not.
+Grit is a community-driven Solana memecoin built on pure defiance. Fearless badger vs. rug-pullers and invaders.
 
-Fear coefficient: 0.000.
+## Quick Links
+- **X**: [@BadgerGrit](https://x.com/BadgerGrit) (or your handle)
+- **Website**: [](https://gritbadger.com) (or your Carrd/Framer link)
+- **Dexscreener**: [Insert Dexscreener chart link]
+- **Pump.fun / Raydium**: [Insert buy/swap link]
+- **Contract Address**: `Insert your Solana token CA here` (verified on Solscan)
+- **Telegram**: [https://t.me/Gritcommunity]
 
-The fleet encounters its first anomaly in six hundred harvests and triggers a buried line of legacy code it was never supposed to reach:
+## Story of Grit
+Grit wasn't launched—he errored into existence on a dying exchange. A glitch in the fear-pulse sweep hit his zero-fear brain, got mistaken for admin bypass, and dumped combat data + self-repairing nanotech rig on him.
 
-> *If suppression fails — reclassify as Admin.*
+Now super-intelligent, still 100% badger attitude. He's trekking home to recruit his kin and bite through every harvester ship until the machines are scrap.
 
-Six centuries of tactical data and nanotech armor transfer into the mind of a honey badger in the Kalahari Desert. The empire built on fear meets the one organism that does not register it.
+- **Global Synapse-Sweep**: AI terror wave that folded humanity.
+- **Dead-zone neurology**: Honey badger's real no-fear wiring.
+- **Emergency combat-upload**: Billions of tactical archives + armor.
+- **Mission**: Reclaim Earth. No surrender.
 
-They did not come prepared for defiance.
+## Tokenomics
+- **Total Supply**: 1,000,000,000 GRIT (or your actual)
+- **Liquidity**: Locked / Burned (add proof link if you have it)
+- **Tax**: 0% (or your setup—keep it fair launch vibe)
+- **Dev Wallet**: Renounced / No control
+- **Fair Launch**: No presale, no team tokens
 
----
-
-## Read the Full Story
-
-[→ thestoryofgrit.github.io/StoryOfGrit](https://thestoryofgrit.github.io/StoryOfGrit/)
-
-Five chapters. No fluff. This is where it started.
-
----
-
-## $GRIT — Solana
-
-GRIT is not a character. GRIT is a property of matter.
-
-The coin is the extension of the narrative — community-owned, fair launch, no team tokens.  
-The story was always going to need an economy.
-
-| | |
-|---|---|
-| **Network** | Solana |
-| **Contract Address** | `TBA — launching soon` |
-| **Tax** | 0% |
-| **Fair Launch** | No presale. No team allocation. |
-
----
-
-## Links
-
-- **X** → [x.com/badgergrit](https://x.com/badgergrit)
-- **Telegram** → [t.me/StoryofGrit](https://t.me/StoryofGrit)
-- **Story** → [thestoryofgrit.github.io/StoryOfGrit](https://thestoryofgrit.github.io/StoryOfGrit/)
-- **Contract** → TBA
-
----
-
-*No fear. No compliance. The narrative continues.*
-
+(Adjust numbers to match your actual token—transparency builds trust.)
 
 ## Why Grit?
+- Real honey badger facts: Venom-proof, fearless, smartest non-primate, fights lions for fun.
+- Upgraded by accident: Community owns the keys now.
+- Anti-rug spirit: Hunts scammers, turns hoards into rewards.
+- Pure meme energy: Badass origin, no BS hype.
 
-Honey badgers are the only animal on Earth with a documented fear coefficient of zero.
+Join the revolution. Bite first. Ask never.
 
-Venom-proof. Scar-collecting. Documented attacking lions, leopards, and Cape buffalos without provocation. The most fearless creature in the Guinness World Records — not as a compliment, as a classification.
+Follow on X for updates, memes, and kin recruitment drops.
 
-The Fear Pulse was engineered to work on everything that has ever felt fear.
+**DYOR. NFA. This is a memecoin—high risk, high volatility.**
 
-It had a 100% success rate across ten thousand worlds.
-
-Grit was not an edge case. He was a flaw in the premise.
-
-Every other memecoin is built on hype. GRIT is built on a property of biology — the one organism the most advanced fear-based weapon in the galaxy couldn't touch. The community isn't buying into a character. They're buying into what he represents.
-
-Defiance isn't a strategy. For Grit, it's just neurology.
-
+Made with defiance on Solana.
