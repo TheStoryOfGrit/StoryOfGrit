@@ -1,6 +1,6 @@
 # GRIT - The story of Grit 
 
-![Grit Banner](https://your-domain-or-ipfs-link-to-1500x500-banner.png)  
+![IMG_0924.jpeg](https://your-domain-or-ipfs-link-to-1500x500-banner.png)  
 *No Fear. No Compliance.*
 
 They conquered ten thousand worlds with one signal.
